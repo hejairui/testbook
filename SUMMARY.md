@@ -2,7 +2,7 @@
 
 * [Introduction](README.md)
 
-* [fristpage.md](fristpagemd.md)
+  * \[前言第一页\]\([fristpagemd.md](/fristpagemd.md)\)
 
 
 
